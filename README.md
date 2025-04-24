@@ -1,8 +1,8 @@
 # Chrono-Eyes
 An CNN-based model to classify the eyes into seasons.
 
-### 1. Defining the seasons for classification
- i. Spring Season Eye Pattern
+## A. Defining the seasons for classification
+ ### 1. Spring Season Eye Pattern
 - **Eye Colors**: Light brown, green, hazel tones.
 - **Key Features**:
   - **High Contrast**: Sharp contrast between the iris and sclera.
@@ -14,7 +14,7 @@ An CNN-based model to classify the eyes into seasons.
   - **Light Spring**: Halo with cloudiness, soft and luminous.
   - **Bright Spring**: Halo with spokes or streams, vibrant.
 
- ii. Autumn Season Eye Pattern
+ ### 2. Autumn Season Eye Pattern
 - **Eye Colors**: Amber, hazel, dark brown.
 - **Key Features**:
   - **Swirling Borders**: Soft, erratic patterns surrounding the pupil.
@@ -26,7 +26,7 @@ An CNN-based model to classify the eyes into seasons.
   - **Soft Autumn**: Muted with cloudiness and speckles.
   - **Warm Autumn**: Halo and speckles, warmth and radiance.
 
-iii. Winter Season Eye Pattern
+### 3. Winter Season Eye Pattern
 - **Eye Colors**: Blue, gray, deep green, cool undertones.
 - **Key Features**:
   - **Spokes and Lines**: Lines radiating from the pupil to the iris.
@@ -38,7 +38,7 @@ iii. Winter Season Eye Pattern
   - **Dark Winter**: Deep, dark eyes with spokes and speckles.
   - **Bright Winter**: High contrast, spokes, and a halo.
 
- iv. Summer Season Eye Pattern
+ ### 4. Summer Season Eye Pattern
 - **Eye Colors**: Soft blues, grays, muted greens.
 - **Key Features**:
   - **Cloudy Texture**: Smoky, ethereal look within the iris.
