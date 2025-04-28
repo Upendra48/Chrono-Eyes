@@ -14,6 +14,8 @@ An CNN-based model to classify the eyes into seasons.
   - **Warm Spring**: Halo and speckles, with rich warmth.
   - **Light Spring**: Halo with cloudiness, soft and luminous.
   - **Bright Spring**: Halo with spokes or streams, vibrant.
+ 
+  ![image info](spring_eye_pattern.png)
 
  ### 2. Autumn Season Eye Pattern
 - **Eye Colors**: Amber, hazel, dark brown.
@@ -26,6 +28,8 @@ An CNN-based model to classify the eyes into seasons.
   - **Dark Autumn**: Rich depth, spokes and speckles.
   - **Soft Autumn**: Muted with cloudiness and speckles.
   - **Warm Autumn**: Halo and speckles, warmth and radiance.
+    
+  ![image info](autumn_eye_pattern.png)
 
 ### 3. Winter Season Eye Pattern
 - **Eye Colors**: Blue, gray, deep green, cool undertones.
@@ -38,6 +42,8 @@ An CNN-based model to classify the eyes into seasons.
   - **Cool Winter**: Cool undertones with spokes and cloudiness.
   - **Dark Winter**: Deep, dark eyes with spokes and speckles.
   - **Bright Winter**: High contrast, spokes, and a halo.
+ 
+  ![image info](winter_eye_pattern.png)
 
  ### 4. Summer Season Eye Pattern
 - **Eye Colors**: Soft blues, grays, muted greens.
@@ -50,6 +56,8 @@ An CNN-based model to classify the eyes into seasons.
   - **Light Summer**: Halo and cloudiness, soft luminosity.
   - **Soft Summer**: Cloudiness and speckles, muted depth.
   - **Cool Summer**: Cool undertones with spokes and cloudiness.
+ 
+  ![image info](summer_eye_pattern.png)
 
 ## B. Features to Extract for Eye Pattern Classification
 
